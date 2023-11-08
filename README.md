@@ -1,42 +1,60 @@
-# Cosmos
+>[Cosmos Join our Internship Program now](http://internship.opengenus.org/)
+|
+>[Try this coolOne Liner knowledge tool](https://iq.opengenus.org/one/)
+[
+](https://www.codetriage.com/opengenus/cosmos)
+|
+>[Checklist project](https://github.com/OpenGenus/checklist)
+|
+>[Participate in COSMOS](The universe of algorithm
+>and data structures is your
+>personal offline collection
+> of every algorithm and data
+>structure one will ever
+>encounter and use in a lifetime
+>This provides solutions in 
+>various languages spanning 
 
-> [Join our Internship Program now](http://internship.opengenus.org/) | Try this cool [One Liner knowledge tool](https://iq.opengenus.org/one/)
->
-> Participate in [Checklist project](https://github.com/OpenGenus/checklist)
+```
+`C`, `C++`,
+`Java`, `JavaScript`,
+ `Swift`,
+`Python`, `Go`
+```
+This work is maintained 
+by a community of hundreds 
+of people and a _massive collaborative effort_ to 
+bring the readily  available coding knowledge offline
 
-> The universe of algorithm and data structures
-
-**Cosmos** is your personal offline collection of every algorithm and data structure one will ever encounter and use in a lifetime. This provides solutions in various languages spanning `C`, `C++`, `Java`, `JavaScript`, `Swift`, `Python`, `Go` and others.
-
-This work is maintained by a community of hundreds of people and is a _massive collaborative effort_ to bring the readily available coding knowledge **offline**.
-
-> **Many coders ask me how to improve their own performances. I cannot say anything except "solve and review and prepare your library"** - _Uwi Tenpen_
+"Many coders ask me how to improve their own performances
+I cannot say anything except
+solve and review and prepare 
+your library"
+-_Uwi Tenpen_
 
 Make your fundamentals in Algorithms and Data Structure with these free resources:
-
-* [**50+** Linked List Problems](https://iq.opengenus.org/list-of-linked-list-problems/)
-* [**50+** Array Problems](https://iq.opengenus.org/list-of-array-problems/)
-* [**50+** Binary Tree Problems](https://iq.opengenus.org/list-of-binary-tree-problems/)
-* [**100+** Dynamic Programming (DP) Problems](https://iq.opengenus.org/list-of-dynamic-programming-problems/)
-
-# Cosmic Structure
-
-Following is the high-level structure of cosmos:
-* [Artificial intelligence](/code/artificial_intelligence) :robot:
-* [Backtracking](/code/backtracking)
-* [Bit manipulation](/code/bit_manipulation)
-* [Cellular automaton](/code/cellular_automaton) 🐚
-* [Compression algorithms](/code/compression) 🗜️
-* [Computational geometry](/code/computational_geometry) :gear:
-* [Cryptography](/code/cryptography)
-* [Data structures](/code/data_structures)
-* [Design pattern](/code/design_pattern)
-* [Divide conquering](/code/divide_conquer) ➗
-* [Dynamic programming](/code/dynamic_programming)
-* [Graph algorithms](/code/graph_algorithms) 📈
-* [Greedy algorithms](/code/greedy_algorithms) 💰
-* [Mathematical algorithms](/code/mathematical_algorithms)  :1234:
-* [Networking](/code/networking)  :globe_with_meridians:
+[**50+** Linked List Problems](https://iq.opengenus.org/list-of-linked-list-problems/)
+[**50+** Array Problems](https://iq.opengenus.org/list-of-array-problems/)
+[**50+** Binary Tree Problems](https://iq.opengenus.org/list-of-binary-tree-problems/)
+[**100+** Dynamic Programming (DP) Problems](https://iq.opengenus.org/list-of-dynamic-programming-problems/)
+[ **150** Cosmic Structure]
+Following is the 
+high-level structure of cosmos:
+[ **200** Artificial intelligence](/code/artificial_intelligence) :robot:
+[ **250** Backtracking](/code/backtracking)
+[ **300** Bit manipulation](/code/bit_manipulation)
+[ **350** Cellular automaton](/code/cellular_automaton) 🐚
+[ **400** Compression algorithms](/code/compression) 🗜️
+[ **450** Computational geometry](/code/computational_geometry) :gear:
+[ **500** Cryptography](/code/cryptography)
+[ **600**Data structures](/code/data_structures)
+[ **650** Design pattern](/code/design_pattern)
+[ **700** Divide conquering](/code/divide_conquer) ➗
+[ **750** Dynamic programming](/code/dynamic_programming)
+[ **800** Graph algorithms](/code/graph_algorithms) 📈
+[ **850** Greedy algorithms](/code/greedy_algorithms) 💰
+[ **900** Mathematical algorithms](/code/mathematical_algorithms)  :1234:
+[ **1000** Networking](/code/networking)  :globe_with_meridians:
 * [Numerical analysis](/code/numerical_analysis)  :chart_with_upwards_trend:
 * [Online challenges](/code/online_challenges)
 * [Operating system](/code/operating_system) 💻
@@ -92,3 +110,7 @@ OpenGenus is sponsored by DigitalOcean and Discourse.
   <br>
   <br><img src="https://github.com/OpenGenus/cosmos/assets/10634210/b6d7640b-9a98-45e2-a293-f11725cec6f9" width="150px">
 </p>
+
+
+
+[![Open Source Helpers](https://www.codetriage.com/opengenus/cosmos/badges/users.svg)]
